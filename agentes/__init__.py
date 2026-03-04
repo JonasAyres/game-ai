@@ -1,0 +1,3 @@
+from agentes.roteirista import criar_roteirista
+from agentes.criador_thumbnail import criar_criador_thumbnail
+from agentes.revisor import criar_revisor

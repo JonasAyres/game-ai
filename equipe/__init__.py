@@ -1,0 +1,1 @@
+from equipe.equipe_video import criar_equipe_video

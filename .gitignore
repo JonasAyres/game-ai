@@ -1,0 +1,38 @@
+# Variáveis de ambiente e credenciais
+.env
+*.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Saída gerada
+saida/*.md
+saida/*.png
+saida/*.jpg
+!saida/.gitkeep
+
+# Distribuição
+dist/
+build/
+*.egg-info/
+*.egg
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

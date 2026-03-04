@@ -1,0 +1,3 @@
+from tarefas.tarefa_roteiro import criar_tarefa_roteiro
+from tarefas.tarefa_thumbnail import criar_tarefa_thumbnail
+from tarefas.tarefa_revisao import criar_tarefa_revisao
